@@ -14,7 +14,7 @@ The main objective of the thesis is to produce an official website for Libis Gar
 - <b>Python</b> 
 - <b>PHP</b> 
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows 11</b>
 
