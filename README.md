@@ -2,6 +2,7 @@
 
 
 <h2>Description</h2>
+
 The main objective of the thesis is to produce an official website for Libis Gardening with a sales prediction system. The website will offer customers a user-friendly platform to conveniently view the store’s plant catalog. The sales prediction system will assist the business owner and employees in evaluating their current sales performance and making accurate predictions for future sales.
 <br />
 
@@ -18,7 +19,7 @@ The main objective of the thesis is to produce an official website for Libis Gar
 
 - <b>Windows 11</b>
 
-<h2>Libis Gardening Website Pages</h2>
+<h2>Screenshots - Libis Gardening Website Pages</h2>
 
 <p align="center">
 Home Page<br/>
@@ -45,7 +46,7 @@ Gardening Short Quiz Page<br/>
 <img width="856" height="435" alt="image" src="https://github.com/user-attachments/assets/45cd56f3-3f2f-481d-989c-4ef2abbf1d5f" />
 <br />
 
-<h2>Sales Prediction System Pages</h2>
+<h2>Screenshots - Sales Prediction System Pages</h2>
 
 <p align="center">
 Sales Prediction System<br/>
